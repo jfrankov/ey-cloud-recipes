@@ -45,4 +45,4 @@
 #
 #require_recipe "logrotate"
 
-require_recipe "git"
+#require_recipe "git"
