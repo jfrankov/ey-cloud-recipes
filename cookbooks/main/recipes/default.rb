@@ -47,5 +47,5 @@
 
 #require_recipe "git"
 
-require_recipe "nginx_logrotate"
+# require_recipe "nginx_logrotate" # gives Chef::Exceptions::FileNotFound error
 
