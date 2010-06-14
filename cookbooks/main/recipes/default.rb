@@ -49,3 +49,4 @@
 
 # require_recipe "nginx_logrotate" # gives Chef::Exceptions::FileNotFound error
 
+require_recipe "seethroo"
