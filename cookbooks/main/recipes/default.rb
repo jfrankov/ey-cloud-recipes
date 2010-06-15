@@ -49,3 +49,6 @@
 
 # require_recipe "nginx_logrotate" # gives Chef::Exceptions::FileNotFound error
 
+require 'yaml'
+
+puts node.to_yaml
